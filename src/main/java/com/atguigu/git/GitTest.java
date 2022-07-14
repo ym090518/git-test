@@ -14,5 +14,7 @@ public class GitTest {
         System.out.println("master修改");
         System.out.println("=================分享到远程库===================");
         System.out.println("VCS---->Import into Version Control---->Share Project on Github");
+        System.out.println("---------------------从远程库拉取代码----------------------");
+        
     }
 }
