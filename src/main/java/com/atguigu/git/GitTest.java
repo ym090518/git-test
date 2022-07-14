@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("Hello Git5");
         System.out.println("===============================");
         System.out.println("hot-fix");
+        System.out.println("=================合并冲突=================");
+        System.out.println("hot-fix分支修改");
     }
 }
